@@ -1,8 +1,9 @@
 {
   "name": "@yourssu/handy-icons-react",
-  "private": false,
   "version": "1.0.0",
   "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "repository": "yourssu/handy-icons-react",
   "exports": {
     ".": {
@@ -13,6 +14,7 @@
   "files": [
     "dist"
   ],
+  "author": "fecapark",
   "keywords": [
     "yourssu",
     "handy",
